@@ -17,13 +17,13 @@ class Team
 end
 giants = Team.new("Giants",67,45,8)
 giants.show_team_result
-tigers = Team.new("tigers",60,53,7)
+tigers = Team.new("Tigers",60,53,7)
 tigers.show_team_result
-dragons = Team.new("dragons",60,55,5)
+dragons = Team.new("Dragons",60,55,5)
 dragons.show_team_result
-bayStars = Team.new("bayStars",56,58,6)
+bayStars = Team.new("BayStars",56,58,6)
 bayStars.show_team_result
-carp = Team.new("carp",52,56,12)
+carp = Team.new("Carp",52,56,12)
 carp.show_team_result
-swallows = Team.new("swallows",41,69,10)
+swallows = Team.new("Swallows",41,69,10)
 swallows.show_team_result
